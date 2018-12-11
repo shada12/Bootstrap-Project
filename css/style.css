@@ -1,36 +1,26 @@
-.my-header {
+.jumbotron {
 
     height: 40vh;
-    background-image: url(../img/placeimg_1000_480_nature.jpg);
+    background-image: url(../img/placeimg_640_480_tech%202.jpg);
 
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
     background-size: cover;
-
     margin-bottom: 1rem;
 }
 
 #navbarNav {
 
-    background-color: var(--dark);
+    background-color: var(--gray-dark);
 }
 
 
 #avatar {
+
     height: 20vh;
-   /* border-radius: 50%;*/
-    background-color: : var(--dark);
-    
-   /* float: right;
-   margin: 0 auto;*/
- 
+    border-radius: 50%;
+    background-color: : var(--gray-dark);
 }
-
-#avatar-position {
-    /* margin-left: 650px;
-    margin-top: 100px;*/
-    /*margin: auto;*/
-    /* margin-right: auto;*/
-}
-
 
 .page-title {
 
@@ -38,30 +28,22 @@
 
 }
 
-.jambotron {
-    background-color: #333;
-    color: #eee;
-}
-
 .jambotron p {
     color: #eee;
 }
 
 p {
-    /*color: var(--indigo);*/
     color: var(--gray-dark);
 }
 
-form{
-    
-    
-}
+form {}
 
+/*
 .my-div {
     background-color: :#abdde5;
     height: 250px;
     border: 2px solid black;
-}
+}*/
 
 #container {
 
@@ -75,9 +57,13 @@ article {
 }
 
 
+#submitBtn {
+    background-color: var(--gray);
+}
+
 
 <----small -- > @media (max-width: 767.98px) {
-   /* width: 80vw;*/
+    /* width: 80vw;*/
 }
 
 
@@ -101,5 +87,8 @@ harum cumque cum incidunt ex,
 perspiciatis accusantium? Impedit obcaecati,
 veniam amet nemo voluptas unde.</p > </div >
 
+<img src="img/penguin.png"id="avatar"class="rounded mx-auto d-block"class="rounded-circle" > <div class="container-fluid"id="my-header" > 
 
- <img src="img/penguin.png" id="avatar" class="rounded mx-auto d-block" class="rounded-circle"  >
+
+
+<div class="my-header row" > <img src="img/penguin.png"id="avatar"class="rounded mx-auto d-block" > <div class="col-3"id="avatar-position" > </div > <div class="col-9" > <h1 class="page-title" > Shada A.</h1 > </div > </div > </div >
