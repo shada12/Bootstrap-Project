@@ -9,6 +9,7 @@
     margin-bottom: 1rem;
 }
 
+
 #navbarNav {
 
     background-color: var(--gray-dark);
@@ -25,34 +26,22 @@
 .page-title {
 
     color: var(--white);
-
 }
 
-.jambotron p {
-    color: #eee;
-}
 
 p {
     color: var(--gray-dark);
 }
 
-form {}
 
-/*
-.my-div {
-    background-color: :#abdde5;
-    height: 250px;
-    border: 2px solid black;
-}*/
 
 #container {
 
     width: 80vw;
-
 }
 
 article {
-    /*height: 300px;*/
+
     overflow: hidden;
 }
 
@@ -60,35 +49,3 @@ article {
 #submitBtn {
     background-color: var(--gray);
 }
-
-
-<----small -- > @media (max-width: 767.98px) {
-    /* width: 80vw;*/
-}
-
-
-<----Medium -- > @media (max-width: 991.98px) {
-    ...
-}
-
-<----Large -- > @media (max-width: 1199.98px) {
-    ...
-}
-
-
-
-<i class="fab fa-adn" > </i > Article 1</h3 > <div class="container-fluid" > <div class="row" > <div class="col-sm-6 col-md-4 col-lg-3" > </div > </div > </div > <div class="container" > < !-- Content here -- > <div class="jambotron" > <h1 class="display-1" > </h1 > <h1 class="display-2" > </h1 > <h1 class="display-3" > heading</h1 > <h1 class="display-4" > heading</h1 > <p class="lead" > Lorem ipsum dolor sit amet,
-consectetur adipisicing elit. Veritatis adipisci autem in vitae ullam porro laudantium,
-harum cumque cum incidunt ex,
-perspiciatis accusantium? Impedit obcaecati,
-veniam amet nemo voluptas unde.</p > </div > <p > Lorem ipsum dolor sit amet,
-consectetur adipisicing elit. Veritatis adipisci autem in vitae ullam porro laudantium,
-harum cumque cum incidunt ex,
-perspiciatis accusantium? Impedit obcaecati,
-veniam amet nemo voluptas unde.</p > </div >
-
-<img src="img/penguin.png"id="avatar"class="rounded mx-auto d-block"class="rounded-circle" > <div class="container-fluid"id="my-header" > 
-
-
-
-<div class="my-header row" > <img src="img/penguin.png"id="avatar"class="rounded mx-auto d-block" > <div class="col-3"id="avatar-position" > </div > <div class="col-9" > <h1 class="page-title" > Shada A.</h1 > </div > </div > </div >
