@@ -2,7 +2,7 @@
 
     height: 40vh;
     background-image: url(../img/placeimg_640_480_tech%202.jpg);
-    filter: blur(1px);
+    /*filter: blur(1px);*/
     background-size: cover;
     margin-bottom: 1rem;
 }
